@@ -1,0 +1,66 @@
+# VSCode settings and extensions
+.vscode/
+
+# User-specific files
+.vscode/*.code-workspace
+
+# Build directories
+build/
+bin/
+out/
+
+# Debug and Release folders
+Debug/
+Release/
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+makefile
+CMakeLists.txt.user
+
+# Visual Studio temporary files
+.vs/
+
+# Visual Studio generated files
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.dbmdl
+*.opendb
+*.aps
+*.vcxproj.*
+*.vscode/
+.vsconfig
+
+# User-specific files for Visual Studio
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Mac-specific files
+*.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Node.js / npm folders if using any
+node_modules/
+
+# Other possible system files
+*.log
+*.bak
+*.swp
+
+# JetBrains IDE files (if applicable)
+.idea/
+
+# Backup files
+*~
